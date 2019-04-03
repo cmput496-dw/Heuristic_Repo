@@ -1,0 +1,23 @@
+clear_board
+play b b2
+play w b4
+play b c3
+play w b6
+play b e5
+play w e2
+play b f6
+play w g2
+00 solve
+#?[b D4]
+
+clear_board
+play b c2
+play w d5
+play b e2
+play w e5
+play b b3
+play w f5
+play b b5
+play w g4
+10 solve
+#?[b B2]
